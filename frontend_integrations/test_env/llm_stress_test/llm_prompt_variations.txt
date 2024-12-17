@@ -1,0 +1,2 @@
+# llm_prompt_variations.txt
+# Text notes or data.

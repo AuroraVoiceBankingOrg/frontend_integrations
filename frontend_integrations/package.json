@@ -1,0 +1,8 @@
+{
+  "name": "frontend_integrations",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "echo Building...",
+    "test": "echo Testing..."
+  }
+}

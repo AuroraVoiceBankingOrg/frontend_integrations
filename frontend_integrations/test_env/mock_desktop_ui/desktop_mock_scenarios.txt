@@ -1,0 +1,2 @@
+# desktop_mock_scenarios.txt
+# Text notes or data.

@@ -1,0 +1,5 @@
+# Requirements for building or testing frontend code
+# This might be for Node tools, etc., but we list here as example.
+node
+npm
+yarn

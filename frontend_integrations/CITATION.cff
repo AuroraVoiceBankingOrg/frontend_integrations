@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+title: 'frontend_integrations'
+authors:
+  - family-names: Doe
+    given-names: Jane
+version: 0.1.0

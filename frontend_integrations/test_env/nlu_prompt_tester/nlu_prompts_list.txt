@@ -1,0 +1,2 @@
+# nlu_prompts_list.txt
+# Text notes or data.
